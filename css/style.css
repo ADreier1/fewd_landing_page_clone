@@ -65,7 +65,6 @@
 	display: inline-block;
 }
 .cases .devices >li {
-	list-style: none;
 	width: 33.3%;
 	float: left;
 }
