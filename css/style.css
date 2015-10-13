@@ -161,3 +161,10 @@ i.fa.fa-facebook {
 i.fa.fa-instagram {
     color: #3f729b;
 }
+.content {
+    text-align: center;
+}
+
+.icons li {
+    display: inline-block;
+}
